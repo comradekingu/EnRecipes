@@ -102,7 +102,7 @@
   "Database": "Database",
   "Export a full backup": "Export a full backup",
   "Generates a zip file that contains all your data. This file can be imported back.": "Generates a ZIP file of all your data you can import elsewhere.",
-  "Import from backup": "Import from backup",
+  "Import from backup": "Import backup",
   "Supports full backups exported by this app": "Supports full backups exported by this app",
   "Version": "Version",
   "Join the Telegram group": "Join the Telegram group",
